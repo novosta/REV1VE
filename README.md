@@ -22,3 +22,4 @@ https://crbug.com/1394226
 - SprinkzMC#8421 - Helped with the website
 - r58Playz#3467 - Helped us set parts of the shim
 - OlyB#9420 - Scraped additional shims
+- Sharp_Jack#4374 - Created wax & compiled the first shims
