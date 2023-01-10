@@ -4,15 +4,15 @@ Seriously Harming IT's Moment of Magnificently Exclusive Rest
 
 Website, name and ~~write-up~~ for a ChromeOS firmware boot exploit
 
-# What is Shimmer?
+## What is Shimmer?
 
 Shimmer is an exploit found in the ChromeOS firmware that utilitzes the RMA factory shims to gain code execution at firmware recovery.
 
-# CrBug Link
+## CrBug Link
 
 https://crbug.com/1394226
 
-# Credits
+## Credits
 
 - CoolElectronics#4683 - Pioneering this wild exploit
 - ULTRA BLUE#1850 - Testing, discovering how to disable root-fs verification, and frecon UI idea
